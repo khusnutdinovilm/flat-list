@@ -10,7 +10,8 @@
     "postinstall": "nuxt prepare",
     "commit": "git-cz",
     "lint": "echo 'No lint'",
-    "test": "echo 'No test'"
+    "test": "echo 'No test'",
+    "push": "./scripts/push-and-create-pr.sh"
   },
   "dependencies": {
     "nuxt": "^4.0.3",
