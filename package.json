@@ -10,7 +10,7 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
     "commit": "git-cz",
-    "lint": "echo 'No lint'",
+    "lint": "eslint --fix .",
     "test": "echo 'No test'",
     "push": "./scripts/push-and-create-pr.sh",
     "format": "prettier --write ."
@@ -21,10 +21,13 @@
     "vue-router": "^4.5.1"
   },
   "devDependencies": {
+    "@nuxt/eslint": "^1.9.0",
     "commitizen": "^4.3.1",
     "cz-conventional-changelog": "^3.3.0",
+    "eslint": "^9.34.0",
     "prettier": "^3.6.2",
-    "standard-version": "^9.5.0"
+    "standard-version": "^9.5.0",
+    "typescript": "^5.9.2"
   },
   "config": {
     "commitizen": {
