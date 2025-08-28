@@ -6,4 +6,18 @@ export default defineNuxtConfig({
   typescript: {
     typeCheck: true,
   },
+
+  css: ["~/assets/styles/main.scss"],
+
+  vite: {
+    css: {
+      preprocessorOptions: {
+        scss: {
+          additionalData: `
+            @use "~/assets/stylres/mixins/index.scss" as *;
+          `,
+        },
+      },
+    },
+  },
 });
