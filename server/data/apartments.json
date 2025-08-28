@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 75.5,
+    "apartment_number": "14A",
+    "floor": 5,
+    "floors_house": 12,
+    "price": 6500000
+  },
+  {
+    "id": 2,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 34.2,
+    "apartment_number": "7B",
+    "floor": 2,
+    "floors_house": 9,
+    "price": 2800000
+  },
+  {
+    "id": 3,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 4,
+    "apartment_area": 98.7,
+    "apartment_number": "22",
+    "floor": 11,
+    "floors_house": 16,
+    "price": 9200000
+  },
+  {
+    "id": 4,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 52.3,
+    "apartment_number": "9C",
+    "floor": 3,
+    "floors_house": 10,
+    "price": 4200000
+  },
+  {
+    "id": 5,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 38.9,
+    "apartment_number": "3",
+    "floor": 1,
+    "floors_house": 5,
+    "price": 3100000
+  },
+  {
+    "id": 6,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 68.4,
+    "apartment_number": "18",
+    "floor": 7,
+    "floors_house": 14,
+    "price": 5800000
+  },
+  {
+    "id": 7,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 47.6,
+    "apartment_number": "12D",
+    "floor": 4,
+    "floors_house": 8,
+    "price": 3900000
+  },
+  {
+    "id": 8,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 4,
+    "apartment_area": 105.2,
+    "apartment_number": "25",
+    "floor": 15,
+    "floors_house": 18,
+    "price": 9800000
+  },
+  {
+    "id": 9,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 32.1,
+    "apartment_number": "5A",
+    "floor": 2,
+    "floors_house": 6,
+    "price": 2500000
+  },
+  {
+    "id": 10,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 72.8,
+    "apartment_number": "16B",
+    "floor": 6,
+    "floors_house": 12,
+    "price": 6200000
+  },
+  {
+    "id": 11,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 48.3,
+    "apartment_number": "8",
+    "floor": 3,
+    "floors_house": 7,
+    "price": 3850000
+  },
+  {
+    "id": 12,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 36.7,
+    "apartment_number": "2B",
+    "floor": 1,
+    "floors_house": 5,
+    "price": 2950000
+  },
+  {
+    "id": 13,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 4,
+    "apartment_area": 112.5,
+    "apartment_number": "31",
+    "floor": 10,
+    "floors_house": 17,
+    "price": 10500000
+  },
+  {
+    "id": 14,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 79.2,
+    "apartment_number": "19C",
+    "floor": 8,
+    "floors_house": 15,
+    "price": 7100000
+  },
+  {
+    "id": 15,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 51.8,
+    "apartment_number": "13A",
+    "floor": 5,
+    "floors_house": 9,
+    "price": 4150000
+  },
+  {
+    "id": 16,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 33.5,
+    "apartment_number": "4",
+    "floor": 2,
+    "floors_house": 6,
+    "price": 2680000
+  },
+  {
+    "id": 17,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 67.9,
+    "apartment_number": "17",
+    "floor": 7,
+    "floors_house": 12,
+    "price": 5750000
+  },
+  {
+    "id": 18,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 4,
+    "apartment_area": 96.3,
+    "apartment_number": "24B",
+    "floor": 12,
+    "floors_house": 16,
+    "price": 8900000
+  },
+  {
+    "id": 19,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 54.6,
+    "apartment_number": "10D",
+    "floor": 4,
+    "floors_house": 8,
+    "price": 4380000
+  },
+  {
+    "id": 20,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 37.2,
+    "apartment_number": "6C",
+    "floor": 3,
+    "floors_house": 7,
+    "price": 3020000
+  },
+  {
+    "id": 21,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 71.4,
+    "apartment_number": "15A",
+    "floor": 6,
+    "floors_house": 11,
+    "price": 6050000
+  },
+  {
+    "id": 22,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 49.8,
+    "apartment_number": "11B",
+    "floor": 4,
+    "floors_house": 9,
+    "price": 3980000
+  },
+  {
+    "id": 23,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 4,
+    "apartment_area": 108.7,
+    "apartment_number": "27",
+    "floor": 14,
+    "floors_house": 20,
+    "price": 10200000
+  },
+  {
+    "id": 24,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 35.9,
+    "apartment_number": "3C",
+    "floor": 2,
+    "floors_house": 6,
+    "price": 2870000
+  },
+  {
+    "id": 25,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 76.3,
+    "apartment_number": "20D",
+    "floor": 9,
+    "floors_house": 16,
+    "price": 6850000
+  },
+  {
+    "id": 26,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 53.1,
+    "apartment_number": "14C",
+    "floor": 5,
+    "floors_house": 10,
+    "price": 4250000
+  },
+  {
+    "id": 27,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 32.8,
+    "apartment_number": "1A",
+    "floor": 1,
+    "floors_house": 5,
+    "price": 2620000
+  },
+  {
+    "id": 28,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 4,
+    "apartment_area": 99.5,
+    "apartment_number": "23",
+    "floor": 11,
+    "floors_house": 18,
+    "price": 9350000
+  },
+  {
+    "id": 29,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 56.7,
+    "apartment_number": "16E",
+    "floor": 6,
+    "floors_house": 12,
+    "price": 4530000
+  },
+  {
+    "id": 30,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 74.2,
+    "apartment_number": "18F",
+    "floor": 8,
+    "floors_house": 14,
+    "price": 6300000
+  },
+  {
+    "id": 31,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 50.4,
+    "apartment_number": "12E",
+    "floor": 4,
+    "floors_house": 8,
+    "price": 4030000
+  },
+  {
+    "id": 32,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 34.6,
+    "apartment_number": "5D",
+    "floor": 2,
+    "floors_house": 7,
+    "price": 2770000
+  },
+  {
+    "id": 33,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 4,
+    "apartment_area": 115.2,
+    "apartment_number": "29A",
+    "floor": 15,
+    "floors_house": 22,
+    "price": 10800000
+  },
+  {
+    "id": 34,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 80.1,
+    "apartment_number": "21B",
+    "floor": 10,
+    "floors_house": 17,
+    "price": 7200000
+  },
+  {
+    "id": 35,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 52.9,
+    "apartment_number": "15C",
+    "floor": 5,
+    "floors_house": 11,
+    "price": 4230000
+  },
+  {
+    "id": 36,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 36.3,
+    "apartment_number": "7F",
+    "floor": 3,
+    "floors_house": 9,
+    "price": 2900000
+  },
+  {
+    "id": 37,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 69.7,
+    "apartment_number": "19D",
+    "floor": 8,
+    "floors_house": 15,
+    "price": 5920000
+  },
+  {
+    "id": 38,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 4,
+    "apartment_area": 104.8,
+    "apartment_number": "26C",
+    "floor": 13,
+    "floors_house": 19,
+    "price": 9870000
+  },
+  {
+    "id": 39,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 55.6,
+    "apartment_number": "17G",
+    "floor": 7,
+    "floors_house": 13,
+    "price": 4450000
+  },
+  {
+    "id": 40,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 33.2,
+    "apartment_number": "8H",
+    "floor": 4,
+    "floors_house": 10,
+    "price": 2650000
+  },
+  {
+    "id": 41,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 77.8,
+    "apartment_number": "22A",
+    "floor": 9,
+    "floors_house": 16,
+    "price": 6980000
+  },
+  {
+    "id": 42,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 51.2,
+    "apartment_number": "13F",
+    "floor": 5,
+    "floors_house": 12,
+    "price": 4100000
+  },
+  {
+    "id": 43,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 4,
+    "apartment_area": 119.6,
+    "apartment_number": "33B",
+    "floor": 17,
+    "floors_house": 25,
+    "price": 11200000
+  },
+  {
+    "id": 44,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 37.5,
+    "apartment_number": "9K",
+    "floor": 3,
+    "floors_house": 8,
+    "price": 3000000
+  },
+  {
+    "id": 45,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 73.1,
+    "apartment_number": "24C",
+    "floor": 11,
+    "floors_house": 18,
+    "price": 6550000
+  },
+  {
+    "id": 46,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 57.3,
+    "apartment_number": "18M",
+    "floor": 7,
+    "floors_house": 14,
+    "price": 4580000
+  },
+  {
+    "id": 47,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 35.4,
+    "apartment_number": "6P",
+    "floor": 2,
+    "floors_house": 6,
+    "price": 2830000
+  },
+  {
+    "id": 48,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 4,
+    "apartment_area": 107.9,
+    "apartment_number": "30D",
+    "floor": 14,
+    "floors_house": 21,
+    "price": 10100000
+  },
+  {
+    "id": 49,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 53.8,
+    "apartment_number": "19R",
+    "floor": 6,
+    "floors_house": 15,
+    "price": 4300000
+  },
+  {
+    "id": 50,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 81.5,
+    "apartment_number": "25S",
+    "floor": 12,
+    "floors_house": 20,
+    "price": 7320000
+  },
+  {
+    "id": 51,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 49.6,
+    "apartment_number": "14T",
+    "floor": 5,
+    "floors_house": 9,
+    "price": 3970000
+  },
+  {
+    "id": 52,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 32.9,
+    "apartment_number": "10U",
+    "floor": 3,
+    "floors_house": 7,
+    "price": 2630000
+  },
+  {
+    "id": 53,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 4,
+    "apartment_area": 122.4,
+    "apartment_number": "35F",
+    "floor": 18,
+    "floors_house": 26,
+    "price": 11500000
+  },
+  {
+    "id": 54,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 78.3,
+    "apartment_number": "27G",
+    "floor": 10,
+    "floors_house": 19,
+    "price": 7050000
+  },
+  {
+    "id": 55,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 54.2,
+    "apartment_number": "20H",
+    "floor": 6,
+    "floors_house": 13,
+    "price": 4340000
+  },
+  {
+    "id": 56,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 36.8,
+    "apartment_number": "11J",
+    "floor": 4,
+    "floors_house": 11,
+    "price": 2940000
+  },
+  {
+    "id": 57,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 72.5,
+    "apartment_number": "28K",
+    "floor": 9,
+    "floors_house": 17,
+    "price": 6520000
+  },
+  {
+    "id": 58,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 4,
+    "apartment_area": 110.7,
+    "apartment_number": "32L",
+    "floor": 16,
+    "floors_house": 24,
+    "price": 10400000
+  },
+  {
+    "id": 59,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 56.1,
+    "apartment_number": "21M",
+    "floor": 8,
+    "floors_house": 16,
+    "price": 4490000
+  },
+  {
+    "id": 60,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 34.1,
+    "apartment_number": "12N",
+    "floor": 5,
+    "floors_house": 10,
+    "price": 2730000
+  },
+  {
+    "id": 61,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 76.2,
+    "apartment_number": "29P",
+    "floor": 11,
+    "floors_house": 20,
+    "price": 6850000
+  },
+  {
+    "id": 62,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 50.8,
+    "apartment_number": "22R",
+    "floor": 7,
+    "floors_house": 14,
+    "price": 4060000
+  },
+  {
+    "id": 63,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 4,
+    "apartment_area": 118.3,
+    "apartment_number": "37S",
+    "floor": 19,
+    "floors_house": 27,
+    "price": 11100000
+  },
+  {
+    "id": 64,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 38.7,
+    "apartment_number": "15T",
+    "floor": 4,
+    "floors_house": 12,
+    "price": 3100000
+  },
+  {
+    "id": 65,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 79.6,
+    "apartment_number": "31U",
+    "floor": 13,
+    "floors_house": 22,
+    "price": 7160000
+  },
+  {
+    "id": 66,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 55.9,
+    "apartment_number": "24V",
+    "floor": 8,
+    "floors_house": 18,
+    "price": 4470000
+  },
+  {
+    "id": 67,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 33.7,
+    "apartment_number": "13W",
+    "floor": 3,
+    "floors_house": 8,
+    "price": 2700000
+  },
+  {
+    "id": 68,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 4,
+    "apartment_area": 113.8,
+    "apartment_number": "34X",
+    "floor": 17,
+    "floors_house": 25,
+    "price": 10700000
+  },
+  {
+    "id": 69,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 52.4,
+    "apartment_number": "26Y",
+    "floor": 9,
+    "floors_house": 19,
+    "price": 4190000
+  },
+  {
+    "id": 70,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 82.1,
+    "apartment_number": "33Z",
+    "floor": 15,
+    "floors_house": 23,
+    "price": 7390000
+  },
+  {
+    "id": 71,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 48.9,
+    "apartment_number": "17AA",
+    "floor": 6,
+    "floors_house": 13,
+    "price": 3910000
+  },
+  {
+    "id": 72,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 35.2,
+    "apartment_number": "8AB",
+    "floor": 2,
+    "floors_house": 7,
+    "price": 2820000
+  },
+  {
+    "id": 73,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 4,
+    "apartment_area": 125.7,
+    "apartment_number": "39AC",
+    "floor": 21,
+    "floors_house": 30,
+    "price": 11800000
+  },
+  {
+    "id": 74,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 77.4,
+    "apartment_number": "28AD",
+    "floor": 12,
+    "floors_house": 21,
+    "price": 6970000
+  },
+  {
+    "id": 75,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 53.6,
+    "apartment_number": "23AE",
+    "floor": 8,
+    "floors_house": 16,
+    "price": 4290000
+  },
+  {
+    "id": 76,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 37.9,
+    "apartment_number": "14AF",
+    "floor": 5,
+    "floors_house": 11,
+    "price": 3030000
+  },
+  {
+    "id": 77,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 74.8,
+    "apartment_number": "30AG",
+    "floor": 10,
+    "floors_house": 18,
+    "price": 6730000
+  },
+  {
+    "id": 78,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 4,
+    "apartment_area": 116.5,
+    "apartment_number": "36AH",
+    "floor": 20,
+    "floors_house": 28,
+    "price": 10950000
+  },
+  {
+    "id": 79,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 57.8,
+    "apartment_number": "25AJ",
+    "floor": 9,
+    "floors_house": 17,
+    "price": 4620000
+  },
+  {
+    "id": 80,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 34.5,
+    "apartment_number": "16AK",
+    "floor": 4,
+    "floors_house": 9,
+    "price": 2760000
+  },
+  {
+    "id": 81,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 80.9,
+    "apartment_number": "32AL",
+    "floor": 14,
+    "floors_house": 24,
+    "price": 7280000
+  },
+  {
+    "id": 82,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 51.7,
+    "apartment_number": "27AM",
+    "floor": 8,
+    "floors_house": 15,
+    "price": 4140000
+  },
+  {
+    "id": 83,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 4,
+    "apartment_area": 128.3,
+    "apartment_number": "41AN",
+    "floor": 22,
+    "floors_house": 32,
+    "price": 12050000
+  },
+  {
+    "id": 84,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 39.2,
+    "apartment_number": "18AP",
+    "floor": 5,
+    "floors_house": 12,
+    "price": 3140000
+  },
+  {
+    "id": 85,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 83.6,
+    "apartment_number": "34AQ",
+    "floor": 16,
+    "floors_house": 26,
+    "price": 7520000
+  },
+  {
+    "id": 86,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 58.4,
+    "apartment_number": "29AR",
+    "floor": 10,
+    "floors_house": 20,
+    "price": 4670000
+  },
+  {
+    "id": 87,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 36.1,
+    "apartment_number": "19AS",
+    "floor": 4,
+    "floors_house": 10,
+    "price": 2890000
+  },
+  {
+    "id": 88,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 4,
+    "apartment_area": 121.9,
+    "apartment_number": "38AT",
+    "floor": 19,
+    "floors_house": 29,
+    "price": 11450000
+  },
+  {
+    "id": 89,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 54.7,
+    "apartment_number": "31AU",
+    "floor": 11,
+    "floors_house": 21,
+    "price": 4380000
+  },
+  {
+    "id": 90,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 85.3,
+    "apartment_number": "35AV",
+    "floor": 17,
+    "floors_house": 27,
+    "price": 7680000
+  },
+  {
+    "id": 91,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 52.3,
+    "apartment_number": "33AW",
+    "floor": 9,
+    "floors_house": 18,
+    "price": 4180000
+  },
+  {
+    "id": 92,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 37.4,
+    "apartment_number": "20AX",
+    "floor": 3,
+    "floors_house": 8,
+    "price": 2990000
+  },
+  {
+    "id": 93,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 4,
+    "apartment_area": 132.8,
+    "apartment_number": "43AY",
+    "floor": 24,
+    "floors_house": 35,
+    "price": 12480000
+  },
+  {
+    "id": 94,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 86.7,
+    "apartment_number": "37AZ",
+    "floor": 15,
+    "floors_house": 25,
+    "price": 7800000
+  },
+  {
+    "id": 95,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 59.2,
+    "apartment_number": "40BA",
+    "floor": 12,
+    "floors_house": 22,
+    "price": 4740000
+  },
+  {
+    "id": 96,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 38.5,
+    "apartment_number": "22BB",
+    "floor": 6,
+    "floors_house": 13,
+    "price": 3080000
+  },
+  {
+    "id": 97,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 3,
+    "apartment_area": 88.4,
+    "apartment_number": "42BC",
+    "floor": 18,
+    "floors_house": 28,
+    "price": 7960000
+  },
+  {
+    "id": 98,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 4,
+    "apartment_area": 135.6,
+    "apartment_number": "45BD",
+    "floor": 26,
+    "floors_house": 36,
+    "price": 12750000
+  },
+  {
+    "id": 99,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 2,
+    "apartment_area": 60.8,
+    "apartment_number": "44BE",
+    "floor": 13,
+    "floors_house": 23,
+    "price": 4860000
+  },
+  {
+    "id": 100,
+    "apartment_layout": "/img/apartment-layout.png",
+    "rooms_count": 1,
+    "apartment_area": 39.8,
+    "apartment_number": "46BF",
+    "floor": 7,
+    "floors_house": 14,
+    "price": 3180000
+  }
+]
