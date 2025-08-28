@@ -1,3 +1,9 @@
 <template>
-  <h1>hello,world!</h1>
+  <h1>Home Page</h1>
 </template>
+
+<script setup lang="ts">
+useHead({
+  title: "Главная",
+});
+</script>
