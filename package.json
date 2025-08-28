@@ -26,6 +26,7 @@
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^9.34.0",
     "prettier": "^3.6.2",
+    "sass": "^1.91.0",
     "standard-version": "^9.5.0",
     "typescript": "^5.9.2",
     "vue-tsc": "^3.0.6"
