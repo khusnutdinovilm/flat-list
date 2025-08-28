@@ -1,0 +1,6 @@
+@use "./mixins/fonts" as *;
+
+@include font-face("PTRootUI", 300);
+@include font-face("PTRootUI", 400);
+@include font-face("PTRootUI", 500);
+@include font-face("PTRootUI", 700);
