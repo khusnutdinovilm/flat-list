@@ -7,6 +7,13 @@ export default defineNuxtConfig({
     typeCheck: true,
   },
 
+  components: [
+    {
+      path: "~/components",
+      pathPrefix: false,
+    },
+  ],
+
   app: {
     head: {
       titleTemplate: "FlatList | %s",
